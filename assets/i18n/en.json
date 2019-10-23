@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "login": {
+      "errors": {
+        "phoneNumberRequired": "Please provide your phone number",
+        "phoneNumberZeroStart": "Must not start with zero",
+        "phoneNumberTooLong": "Must not exceed 11 characters",
+        "password": "Please provide your password",
+        "noConnection": "There is no internet connection"
+      },
+      "forgotPassword": "Forgot Your Password?",
+      "newToBiomark": "New to BioMark?",
+      "signUp": "Sign Up",
+      "enterPassword": "Enter your password...",
+      "login": "Log in"
+    }
+  },
+  "userProfile": {
+    "mobileNumber": "Mobile Number",
+    "password": "Password"
+  }
+}
